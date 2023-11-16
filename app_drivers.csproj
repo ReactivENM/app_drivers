@@ -160,8 +160,8 @@
     <None Include="Icons\lot.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Controllers\Controllers.csproj">
-      <Project>{402b2982-bdcc-4315-9204-4fd0ebeb0c88}</Project>
+    <ProjectReference Include="Controllers\Controllers.csproj">
+      <Project>{71fe3560-76cb-440c-97d1-4b226fdb693a}</Project>
       <Name>Controllers</Name>
     </ProjectReference>
     <ProjectReference Include="Models\Models.csproj">
